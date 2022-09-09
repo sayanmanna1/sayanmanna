@@ -1,0 +1,62 @@
+.navbar-brand{
+    font-size: 30px;
+}
+.navbar-nav{
+    font-size: 20px;
+}
+
+
+.jumbo-home{
+    background-image: url(home.jpg);
+}
+.jumbotron{
+    min-height: 600px;
+    background-attachment: fixed;
+    background-position: 50% 50%;
+    background-size: 100%;
+    color: white;
+}
+.jumbotron-fluid {
+    padding-right: 0;
+    padding-left: 0;
+    border-radius: 0;
+}
+.jumbo-project{
+    background-image: url(project.jpg);
+}
+
+.mt-4{
+    margin-top: 1.5rem!important;
+}
+.jumbo-education{
+    background-image: url(edu.jpg);
+}
+.jumbo-hobbies{
+    background-image: url(chess.jpg);
+}
+.jumbo-contact{
+    background-image: url(social.jpg);
+}
+.bi-instagram{
+    color: black;
+    font-size: 35px;
+}
+.bi-linkedin{
+    color: black;
+    font-size: 35px;
+}
+.bi-github{
+    color: black;
+    font-size: 35px;
+}
+.offset-1{
+    font-size: 25px;
+    
+}
+.blockquote{
+    font-size: 30px;
+}
+.blockquote-footer{
+    font-size: 20px;
+}
+
